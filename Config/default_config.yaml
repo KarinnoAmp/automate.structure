@@ -1,0 +1,12 @@
+Lang: EN
+TestSite: Qa
+Headless: False 
+Android:  # for mobile application
+  Alias: emulator-5554
+  RemoteUrl: http://localhost:4723/wd/hub
+  PlatformName: Android
+  PlatformVersion: 11.0
+  DeviceName: emulator-5554
+  AppPackage: com.
+  AppActivity: com.
+  TimeoutDriverUiautomator: 30000

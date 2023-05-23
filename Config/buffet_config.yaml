@@ -1,0 +1,8 @@
+Browser: # for web UI
+  BrowserTimeout: 10s
+  WaitStateTimeout: 2s
+  AssertionTimeout: 2s
+  ScreenshotTimeout: 2s
+WaitAppiumStateTimeout: 10s # for mobile application
+Api:
+  RequestTimeout: 30s

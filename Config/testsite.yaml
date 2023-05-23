@@ -1,0 +1,6 @@
+Qa:
+  Url:
+  IgnoreSslCertificate: False
+Dev:
+  Url:
+  IgnoreSslCertificate: False
